@@ -1,6 +1,7 @@
 <p align="center">
   <a href="http://39.108.51.116/#/login" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://img.shields.io/badge/%E5%B0%8F%E5%BC%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%90%8E%E7%AB%AF-v1.0.0-important" alt="Blog logo">
+    <img width="180" src="https://img.shields.io/badge/%E5%8C%97%E8%A1%97%E5%AD%A6%E9%95%BF%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%90%8E%E5%8F%B0-v1.0-blue
+" alt="Blog logo">
   </a>
 </p>
 
@@ -36,17 +37,17 @@
 
 博客前台基于vue3、element plus、pinia、axios、vue-router、vue-cli、vue-use、npm、scss等主流技术
 
-前台线上预览地址：<http://mrzym.top>
+前台线上预览地址：[http://mrzym.top](http://mrzym.top)
 
-gitee仓库地址：<https://gitee.com/mrzym/blog-v3>
+gitee仓库地址：[https://gitee.com/mrzym/blog-v3](https://gitee.com/mrzym/blog-v3)
 
 #### 管理后台
 
 博客管理后台基于pureadmin、vue3、element plus、pinia、axios、vue-router、vue-use、pnpm、vite、sass、tailwindcss等主流技术
 
-后台线上预览地址：<http://mrzym.top/admin>
+后台线上预览地址：[http://mrzym.top/admin](http://mrzym.top/admin)
 
-gitee仓库地址： <https://gitee.com/mrzym/blog-v3-admin>
+gitee仓库地址： [https://gitee.com/mrzym/blog-v3-admin](https://gitee.com/mrzym/blog-v3-admin)
 
 测试账户: test
 
@@ -58,7 +59,7 @@ gitee仓库地址： <https://gitee.com/mrzym/blog-v3-admin>
 
 博客后端基于node.js、koa、koa-router、koa-body、seqlize、mysql、qiniu(七牛云对象存储)、bcryptjs、nodemon等主流技术
 
-gitee仓库地址：<https://gitee.com/mrzym/blogServer>
+gitee仓库地址：[https://gitee.com/mrzym/blogServer](https://gitee.com/mrzym/blogServer)
 
 ## 🚀 博客后端下载运行
 
@@ -88,7 +89,7 @@ tips：.env文件下可以配置项目的上传文件方式，local为本地上�
 
 博客的部署教程
 
-教程地址：<http://mrzym.top/#/articleList?id=2&type=category&name=%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2>
+教程地址：[http://mrzym.top/#/articleList?id=2&amp;type=category&amp;name=%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2](http://mrzym.top/#/articleList?id=2&type=category&name=%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2)
 
 ## 🥰感谢
 
