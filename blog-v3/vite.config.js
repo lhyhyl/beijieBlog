@@ -76,7 +76,8 @@ export default defineConfig({
       //匹配规则
       "/api": {
         //要访问的跨域的域名
-        target: "http://localhost:8888",
+        // target: "http://localhost:8888",
+        target: "http://47.108.185.22:8888",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       },
