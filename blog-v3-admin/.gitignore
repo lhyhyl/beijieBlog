@@ -1,6 +1,6 @@
 node_modules
 .DS_Store
-dist
+# dist
 dist-ssr
 *.local
 .eslintcache
@@ -19,3 +19,4 @@ tests/**/coverage/
 *.njsproj
 *.sln
 tsconfig.tsbuildinfo
+

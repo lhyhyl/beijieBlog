@@ -1,0 +1,1 @@
+import{bo as e}from"./auth-0313e5d1.js";const a=t=>e.request("post","/api/category/getCategoryList",{data:t}),o=t=>e.request("post","/api/category/add",{data:t}),s=t=>e.request("put","/api/category/update",{data:t}),g=t=>e.request("post","/api/category/delete",{data:t}),i=()=>e.request("get","/api/Category/getCategoryDictionary",{});export{o as a,a as b,g as d,s as e,i as g};
