@@ -4,7 +4,7 @@
     <!-- eslint-disable-next-line -->
     <div class="footer-color">&copy 北街学长的博客 2023</div>
     <a class="footer-color change-color mt-[5px]" href="http://beian.miit.gov.cn/" target="_blank"
-      >蜀ICP备2023007772号</a
+      >蜀ICP备2024046861号-1</a
     >
     <div class="footer-color mt-[5px] flex justify-center flex-wrap">
       <a

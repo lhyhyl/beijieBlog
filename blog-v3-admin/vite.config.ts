@@ -63,7 +63,7 @@ export default ({ command, mode }: ConfigEnv): UserConfigExport => {
           rewrite: path => path.replace(/^\/blog-images/, "")
         },
         "/gitee": {
-          target: "https://gitee.com/mrzym",
+          target: "https://gitee.com/lhyhyl",
           changeOrigin: true,
           rewrite: path => path.replace(/^\/gitee/, "")
         }
